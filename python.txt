@@ -6,7 +6,12 @@ contents:
     for
     ifelif
     while
-    
-    
-    
-    enjoy the tutorial
+
+extra stuffs:
+  polymorphism
+  classes
+
+
+make ur valuable comments 
+  enjoy the tutorial
+ 
